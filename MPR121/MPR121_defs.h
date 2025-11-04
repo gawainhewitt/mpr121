@@ -37,6 +37,8 @@
 #ifndef MPR121_DEFS_H
 #define MPR121_DEFS_H
 
+#include <cstdint>
+
 // MPR121 Register Defines
 
 // touch and OOR statuses
